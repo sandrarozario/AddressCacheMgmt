@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Oracle WebLogic Server 11gR1 (10.3.6) JRE">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/IBE/MYB/MYBEngine/WebContent/WEB-INF/lib/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/IBE/MYB/MYBEngine/WebContent/WEB-INF/lib/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/IBE/MYB/MYBEngine/WebContent/WEB-INF/lib/jersey-json-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/IBE/MYB/MYBEngine/WebContent/WEB-INF/lib/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/IBE/MYB/MYBEngine/WebContent/WEB-INF/lib/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/IBE/MYB/MYBEngine/WebContent/WEB-INF/lib/commons-pool-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/IBE/MYB/MYBEngine/WebContent/WEB-INF/lib/jmockit-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/IBE/MYB/MYBEngine/WebContent/WEB-INF/lib/jsonassert-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s716370/Documents/junit-4.11.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
